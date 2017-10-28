@@ -150,28 +150,38 @@ header.masthead {
 
 section.download {
   position: relative;
-  padding: 150px 0; }
+  padding: 150px 0;
+  color:white;
+
+  }
   section.download h2 {
     font-size: 50px;
-    margin-top: 0; }
+    margin-top: 0;
+   }
   section.download .badges .badge-link {
     display: block;
-    margin-bottom: 25px; }
+    margin-bottom: 25px;
+   }
     section.download .badges .badge-link:last-child {
-      margin-bottom: 0; }
+      margin-bottom: 0;
+     }
     section.download .badges .badge-link img {
-      height: 60px; }
+      height: 60px;
+    }
     @media (min-width: 768px) {
       section.download .badges .badge-link {
         display: inline-block;
-        margin-bottom: 0; } }
+        margin-bottom: 0;
+         } }
   @media (min-width: 768px) {
     section.download h2 {
-      font-size: 70px; } }
+      font-size: 70px;
+      } }
 
       #download{
-        background: url("../img/heart1.jpg") no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
+        background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../img/heart4.jpeg") no-repeat left center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
       }
+
 
 section.features .section-heading {
   margin-bottom: 100px; }
@@ -242,9 +252,9 @@ section.cta {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5); }
     section.cta ul.list-social li.social-google-plus a {
-      background-color: #d73925; }
+      background-color: black; }
       section.cta ul.list-social li.social-google-plus a:hover {
-        background-color: #d73925; }
+        background-color: black; }
         section.cta ul.list-social {
           margin-bottom: 0; }
           section.cta ul.list-social li a {
